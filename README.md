@@ -23,3 +23,6 @@ tag1, tag2, ...
 ## Citations
 
 Optional.
+
+<iframe src="https://player.vimeo.com/video/633172673?h=806ded0cb9" width="640" height="480" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/633172673">Segmentation of Overlapping Plants in Multi-plant Image Time Series</a> from <a href="https://vimeo.com/plantcv">PlantCV</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
