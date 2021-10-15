@@ -24,3 +24,4 @@ tag1, tag2, ...
 
 Optional.
 
+![GIF](https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/1a4c33f8-ccfb-4f65-8ab7-a27aedc775ad.gif?ClientID=vimeo-core-prod&Date=1634328154&Signature=71fe14a7ec2c22418a6b86387ed222deb0b23557)(https://vimeo.com/633172673)
