@@ -1,6 +1,9 @@
-# Tutorial Title
+# PlantCV Image Analysis Basics Tutorial
 
-Description of tutorial.
+Interactive tutorial that explains how to develop a workflow for a single plant image of _Arabidopsis thaliana_. This tutorial assumes you have no knowledge of image data analysis.
+
+#Image Analysis Workflow
+Read in image taken with any kind of vis (RGB) camera to analyze shape, color, size, and more properties.
 
 Create a Binder launch button:
 
@@ -12,11 +15,3 @@ Create a Binder launch button:
 6. Launch to build the environment
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/danforthcenter/plantcv-tutorial-template/HEAD)
-
-## Tutorial tags/keywords
-
-tag1, tag2, (e.g. data type, species featured, algorithm, etc) ...
-
-## Citations
-
-Optional.
