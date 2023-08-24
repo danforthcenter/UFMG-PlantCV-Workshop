@@ -1,17 +1,9 @@
-# PlantCV Image Analysis Basics Tutorial
+# UFMG PlantCV Workshop
+Here you will find resources to participate in our interactive workshop focused on using PlantCV to develop pythonic workflows to analyze your plant phenomic data. In this workshop, you will engage in instructor- and self-guided Jupyter notebook activities to obtain training in the following directories:
 
-Interactive tutorial that explains how to develop a workflow for a single plant image of _Arabidopsis thaliana_. This tutorial assumes you have no knowledge of image data analysis.
+1. Single-Plant-Image-Analysis: Learn the fundamentals of image analysis and how to develop a workflow of a single plant image of *Arabidopsis thaliana* using PlantCV. You will learn the elements that make up an image and how PlantCV using image data to extract plant features and data.
+2. Multiple-Plant-Image-Analysis: In this module, you will develop a workflow on a tray of *Arabidopsis thaliana*. Discover how to segment and identify individual plants amongst the tray and extract relevant trait data for each plant.
+3. Seed-Image-Analysis: Here you will see how PlantCV detects, counts, and extract seed characteristics on an image of *Chenopodium quinoa* seeds.
+4. Dry-Beans-Machine-Learning-Lab: In this exercise, participants will work in groups of 2-3 to capture quality images of various dried legumes and import them into a PlantCV workflow. You will develop training sets for several different dried beans to train a machine learning model capable of identifying specific legumes in a heterogenous mixture.
 
-#Image Analysis Workflow
-Read in image taken with any kind of vis (RGB) camera to analyze shape, color, size, and more properties.
-
-Create a Binder launch button:
-
-1. Copy the GitHub repo URL
-2. Go to https://mybinder.org
-3. Fill in the tutorial URL
-4. Copy the Markdown code for the button
-5. Delete these meta-instructions, optionally replace with your own. 
-6. Launch to build the environment
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/danforthcenter/plantcv-tutorial-template/HEAD)
+By accessing this repository, you will have access to the necessary image datasets and Jupyter notebooks for each activity. These resources will empower you to learn and apply the image analysis techniques using PlantCV.
