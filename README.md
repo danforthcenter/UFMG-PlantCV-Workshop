@@ -12,13 +12,13 @@ By accessing this repository, you will have access to the necessary image datase
 1. Open [Google Drive](drive.google.com) in your web browser.
 2. Open a new Google Colaboratory notebook (.ipynb)
 3. Add the following code in the first cell:
-```# Mount your Google Drive to Google Colaboratory```
-```from google.colab import drive```
-```drive.mount('/content/gdrive')```
-```# Change your working directory to the mounted drive```
-```%cd gdrive/MyDrive/```
-```# Print the contents of your drive to confirm it worked```
-```!ls```
-```# Clone the workshop's repository to your Google Drive```
-```!git clone https://github.com/danforthcenter/UFMG-PlantCV-Workshop.git```
+```# Mount your Google Drive to Google Colaboratory
+from google.colab import drive
+drive.mount('/content/gdrive')
+# Change your working directory to the mounted drive
+%cd gdrive/MyDrive/
+# Print the contents of your drive to confirm it worked
+!ls
+# Clone the workshop's repository to your Google Drive
+!git clone https://github.com/danforthcenter/UFMG-PlantCV-Workshop.git```
 5. Run the cell either by hitting the **Play** button or by pressing *Shift + Enter*
