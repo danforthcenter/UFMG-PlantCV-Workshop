@@ -9,9 +9,10 @@ Here you will find resources to participate in our interactive workshop focused 
 By accessing this repository, you will have access to the necessary image datasets and Jupyter notebooks for each activity. These resources will empower you to learn and apply the image analysis techniques using PlantCV. This workshop utilizes Google Colaboratory to function, this means that you will need a **Google account** and have [Google Colaboratory](https://workspace.google.com/u/1/marketplace/app/colaboratory/1014160490159?pann=ogb) installed and added to your Google Workspace. 
 ***
 ## Cloning this repository to your Google Drive
-1. Open [Google Drive](drive.google.com) in your web browser.
-2. Open a new Google Colaboratory notebook (.ipynb)
-3. Add the following code in the first cell:
+1. Install and add [Google Colaboratory](https://workspace.google.com/u/1/marketplace/app/colaboratory/1014160490159?pann=ogb) to your Google Workspace.
+2. Open [Google Drive](drive.google.com) in your web browser.
+3. Open a new Google Colaboratory notebook (.ipynb)
+4. Add the following code in the first cell:
 ```
 # Mount your Google Drive to Google Colaboratory
 from google.colab import drive
