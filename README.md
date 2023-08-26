@@ -11,8 +11,11 @@ By accessing this repository, you will have access to the necessary image datase
 ## Cloning this repository to your Google Drive
 1. Install and add [Google Colaboratory](https://workspace.google.com/u/1/marketplace/app/colaboratory/1014160490159?pann=ogb) to your Google Workspace.
 2. Open [Google Drive](drive.google.com) in your web browser.
-3. Open a new Google Colaboratory notebook (.ipynb)
-4. Add the following code in the first cell:
+3. Open a new Google Colaboratory notebook (.ipynb):
+   a. +New (Found above menu on the left side of the screen).
+   b. In the menu, select **More**.
+   c. Select *Google Colaboratory* in the second menu.
+5. Add the following code in the first cell:
 ```
 # Mount your Google Drive to Google Colaboratory
 from google.colab import drive
@@ -25,3 +28,7 @@ drive.mount('/content/gdrive')
 !git clone https://github.com/danforthcenter/UFMG-PlantCV-Workshop.git
 ```
 5. Run the cell either by hitting the **Play** button or by pressing *Shift + Enter*
+6. You may get a dialog box warning you that the notebook isn't authored by Google, select **Run Anyway**.
+7. You will be prompted by another dialog box asking for permission to access your Google Drive within the notebook, select **Connect to Google Drive**.
+8. You should see the contents of your Google Drive printed below.
+9. Check your Google Drive to see if you have a new directory named UFMG-PlantCV-Workshop and that all of the contents from this repo should be within.
