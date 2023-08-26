@@ -15,6 +15,7 @@ By accessing this repository, you will have access to the necessary image datase
    * +New (Found above menu on the left side of the screen).
    * In the menu, select **More**.
    * Select *Google Colaboratory* in the second menu.
+   * NOTE: If you do not see *Google Colaboratory* in the second menu, you may need to refresh the web page.
 5. Add the following code in the first cell:
 ```
 # Mount your Google Drive to Google Colaboratory
