@@ -12,9 +12,9 @@ By accessing this repository, you will have access to the necessary image datase
 1. Install and add [Google Colaboratory](https://workspace.google.com/u/1/marketplace/app/colaboratory/1014160490159?pann=ogb) to your Google Workspace.
 2. Open [Google Drive](drive.google.com) in your web browser.
 3. Open a new Google Colaboratory notebook (.ipynb):
-   a. +New (Found above menu on the left side of the screen).
-   b. In the menu, select **More**.
-   c. Select *Google Colaboratory* in the second menu.
+   * +New (Found above menu on the left side of the screen).
+   * In the menu, select **More**.
+   * Select *Google Colaboratory* in the second menu.
 5. Add the following code in the first cell:
 ```
 # Mount your Google Drive to Google Colaboratory
